@@ -4,7 +4,7 @@
                     <div class="row justify-content-between">
 
                         <div class="col-md-6">
-                            <p class="mb-0"><span style="font-weight: bold; font-size: 20pt;">Kōhī ®</span><br> <small>© 2023 <span>Kōhī</span> Company | All rights reserved.</small></p>
+                            <p class="mb-0"><span style="font-weight: bold; font-size: 20pt;">TaYouth</span><br> <small>© 2023 <span>Kōhī</span> Company | All rights reserved.</small></p>
                         </div>
 
                         <div class="col-auto mr-md-4">

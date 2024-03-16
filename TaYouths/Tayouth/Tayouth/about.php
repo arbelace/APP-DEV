@@ -5,8 +5,8 @@
     include('./includes/header.php');
 ?>
 
-    <section style="background-image: url('img/about.png') !important; background-repeat: no-repeat; background-position: left 
-        !important; background-size: cover; background-attachment: fixed;">
+<section style="background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(img/dog.png )
+     !important; background-repeat: no-repeat; background-position: left !important; background-size: cover; background-attachment: fixed;">
         <div class="container">
             <div class="row min-vh-100 align-items-center">
                 <div class="col-lg-6 col-sm-12 ps-lg-3">
